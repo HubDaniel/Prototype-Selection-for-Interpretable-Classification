@@ -1,6 +1,11 @@
-## PROTOTYPE-SELECTION-FOR-INTERPRETABLE-CLASSIFICATION
-Replication and Revision of the paper "PROTOTYPE SELECTION FOR INTERPRETABLE CLASSIFICATION" By Jacob Bien and Robert Tibshirani
+## PROTOTYPE SELECTION FOR INTERPRETABLE CLASSIFICATION
 
-"Project.pdf" is the description of the project, its requirements etc.
+This is a project from UCLA EE course. Instructor: Christina Fragouli <br />
 
-"project paper.pdf" is provided by the course instructor.
+Revision of the paper "PROTOTYPE SELECTION FOR INTERPRETABLE CLASSIFICATION" By Jacob Bien and Robert Tibshirani <br />
+
+Coding from scretch. <br />
+
+Revisions: <br />
+(1) Hyperparameters (e.g. epsilon ball) <br />
+(2) Distance Measures
